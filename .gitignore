@@ -1,0 +1,7 @@
+/ArenaBattle/Saved
+/ArenaBattle/Intermediate
+/ArenaBattle/.vs
+/ArenaBattle/Build
+/ArenaBattle/Plugins
+*.sln
+*_BuiltData.uasset
